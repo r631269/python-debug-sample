@@ -1,0 +1,13 @@
+format_version: 1
+stack_name: python-base
+resources_I_provision:
+  docker_images:
+    - dockerfile: ./Dockerfile
+      repo: janus/python-base
+      tags:
+        - "1"
+        - "1.0"
+        - "1.0.0"
+        - "python-2"
+        - "python-2.7"
+        - latest
