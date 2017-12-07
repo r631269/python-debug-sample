@@ -6,8 +6,8 @@ resources_I_provision:
       repo: janus/python-base
       tags:
         - "1"
-        - "1.0"
-        - "1.0.0"
+        - "1.1"
+        - "1.1.0"
         - "python-2"
         - "python-2.7"
         - latest
