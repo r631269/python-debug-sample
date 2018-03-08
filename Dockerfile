@@ -1,3 +1,1 @@
-FROM python:2.7
-
-COPY ./komodo /opt/komodo
+FROM python:3.6
